@@ -97,16 +97,16 @@ This repository is the official channel for community feedback and support.
 
 Found an issue? Help us improve:
 
-1. Check [existing issues](https://github.com/monify-labs/monify/issues) to avoid duplicates
-2. Create a [new bug report](https://github.com/monify-labs/monify/issues/new?template=bug_report.yml)
+1. Check [existing issues](https://github.com/monify-labs/monify-cloud/issues) to avoid duplicates
+2. Create a [new bug report](https://github.com/monify-labs/monify-cloud/issues/new?template=bug_report.yml)
 3. Include steps to reproduce, expected behavior, and screenshots if applicable
 
 ### Feature Requests
 
 Have an idea? We prioritize based on community feedback:
 
-1. Review the [roadmap](https://github.com/monify-labs/monify/issues?q=label%3Aenhancement)
-2. Submit a [feature request](https://github.com/monify-labs/monify/issues/new?template=feature_request.yml)
+1. Review the [roadmap](https://github.com/monify-labs/monify-cloud/issues?q=label%3Aenhancement)
+2. Submit a [feature request](https://github.com/monify-labs/monify-cloud/issues/new?template=feature_request.yml)
 3. Describe the problem, your proposed solution, and alternatives considered
 
 ### Guidelines
@@ -147,7 +147,7 @@ We're continuously improving Monify. Here's what's coming:
 | **Custom Metrics API**   | Push custom application metrics via SDK                   |
 | **PagerDuty/Opsgenie**   | Native integrations with incident management platforms    |
 
-Have a feature request? [Submit an issue](https://github.com/monify-labs/monify/issues/new?template=feature_request.yml) — community feedback directly influences our priorities.
+Have a feature request? [Submit an issue](https://github.com/monify-labs/monify-cloud/issues/new?template=feature_request.yml) — community feedback directly influences our priorities.
 
 ## Security
 
