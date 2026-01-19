@@ -82,9 +82,8 @@ Get your token at [dash.monify.cloud](https://dash.monify.cloud)
 | Team Members      |   1    |    1    |   10    | Unlimited |
 | Alert Channels    |   3    |    5    |   15    | Unlimited |
 | Daily Emails      |   20   |   100   |   500   |   2,000   |
-| Dashboards        |   1    |    3    |   10    | Unlimited |
+| Custom Dashboards |   —    |    3    |   10    | Unlimited |
 | Data Retention    | 7 days | 30 days | 90 days |  90 days  |
-| Custom Dashboards |   —    |    ✓    |    ✓    |     ✓     |
 | Audit Logs        |   —    |    —    |    ✓    |     ✓     |
 | RBAC              |   —    |    —    |    ✓    |     ✓     |
 | Priority Support  |   —    |    —    |    —    |     ✓     |
